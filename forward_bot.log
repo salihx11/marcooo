@@ -1,0 +1,4 @@
+2025-10-01 01:12:17,338 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-10-01 01:12:17,542 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-10-01 01:12:26,907 - ERROR - Error forwarding to social_22: MessageMethods.forward_messages() got an unexpected keyword argument 'message_thread_id'
+2025-10-01 01:12:32,191 - ERROR - Error forwarding to sectormarket_24: MessageMethods.forward_messages() got an unexpected keyword argument 'message_thread_id'

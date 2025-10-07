@@ -1,0 +1,13 @@
+{
+    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "admin_user_ids": [
+        123456789,
+        987654321
+    ],
+    "target_groups": [],
+    "delay_between_forwards": 5,
+    "cooldown_period": 3600,
+    "max_retries": 3,
+    "enable_drop_author": true,
+    "enable_silent_mode": false
+}

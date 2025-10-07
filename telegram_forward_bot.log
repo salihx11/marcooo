@@ -1,0 +1,30 @@
+2025-10-01 01:18:32,614 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-10-01 01:18:32,828 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-10-01 01:18:50,380 - __main__ - ERROR - Unexpected error for social_22: MessageMethods.forward_messages() got an unexpected keyword argument 'message_thread_id'
+2025-10-01 01:18:55,670 - __main__ - ERROR - Unexpected error for sectormarket_24: MessageMethods.forward_messages() got an unexpected keyword argument 'message_thread_id'
+2025-10-01 01:19:00,916 - __main__ - ERROR - Unexpected error for porkmarket_15: MessageMethods.forward_messages() got an unexpected keyword argument 'message_thread_id'
+2025-10-01 01:19:06,246 - __main__ - ERROR - Unexpected error for oguflips_13: MessageMethods.forward_messages() got an unexpected keyword argument 'message_thread_id'
+2025-10-01 01:24:44,861 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-10-01 01:24:45,071 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-10-01 01:24:55,447 - __main__ - INFO - Using compatible method for topic: social
+2025-10-01 01:24:55,778 - __main__ - ERROR - Error in send_message_compatible: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2025-10-01 01:25:01,084 - __main__ - INFO - Using compatible method for topic: sectormarket
+2025-10-01 01:25:01,335 - __main__ - ERROR - Error in send_message_compatible: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2025-10-01 01:25:06,572 - __main__ - INFO - Using compatible method for topic: porkmarket
+2025-10-01 01:25:06,803 - __main__ - ERROR - Error in send_message_compatible: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2025-10-01 01:25:12,077 - __main__ - INFO - Using compatible method for topic: oguflips
+2025-10-01 01:25:12,354 - __main__ - ERROR - Error in send_message_compatible: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2025-10-01 01:25:17,698 - __main__ - INFO - Using compatible method for topic: marketogs
+2025-10-01 01:25:18,009 - __main__ - ERROR - Error in send_message_compatible: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2025-10-01 01:25:18,014 - __main__ - INFO - Forwarding completed: 0/5 successful, 5 errors, 0 cooldowns
+2025-10-01 01:39:14,822 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-10-01 01:39:15,058 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-10-01 01:39:29,602 - __main__ - INFO - Topic parameter unsupported, trying main channel: social
+2025-10-01 01:39:29,827 - __main__ - ERROR - Error sending to main channel social: RPCError 400: TOPIC_CLOSED (caused by ForwardMessagesRequest)
+2025-10-01 01:39:30,054 - __main__ - ERROR - Error sending as new message to social: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2025-10-01 01:39:35,296 - __main__ - INFO - Topic parameter unsupported, trying main channel: sectormarket
+2025-10-01 01:39:35,522 - __main__ - ERROR - Error sending to main channel sectormarket: RPCError 400: TOPIC_CLOSED (caused by ForwardMessagesRequest)
+2025-10-01 01:39:35,753 - __main__ - ERROR - Error sending as new message to sectormarket: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
+2025-10-01 01:39:40,996 - __main__ - INFO - Topic parameter unsupported, trying main channel: porkmarket
+2025-10-01 01:39:41,218 - __main__ - ERROR - Error sending to main channel porkmarket: RPCError 400: TOPIC_CLOSED (caused by ForwardMessagesRequest)
+2025-10-01 01:39:41,443 - __main__ - ERROR - Error sending as new message to porkmarket: RPCError 400: TOPIC_CLOSED (caused by SendMessageRequest)
